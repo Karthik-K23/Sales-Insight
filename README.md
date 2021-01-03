@@ -5,3 +5,4 @@ Data Analysis Project sales insight using MySQL and Power BI
 #### this repo contains
 #### 1. SQL Command files
 #### 2. PowerBI dash board
+<img src="
